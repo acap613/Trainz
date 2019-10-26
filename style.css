@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(116, 107, 107);
+}
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+.jumbotron {
+    background: rgb(196, 196, 196);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1 {
+    font-size: 75px;
+    font-weight: bold;
+    color: rgb(0, 23, 71);
+        
+}
+.card-header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 15px;
+    
+}
