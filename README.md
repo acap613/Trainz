@@ -1,4 +1,5 @@
 # Trainz
+<<<<<<< HEAD
 Front end train schedule App using Firebase to save your train AND tell the time until next arrival!
 Start by scrolling to the bottom, entering the information, and hitting submit to add your train to the schedule and see its next arrival time.
 
@@ -10,3 +11,5 @@ Schedule screen-shot
 
 Input fields screen-shot
 ![alt text](./images/Trainz_readme3.png?raw=true)
+=======
+
