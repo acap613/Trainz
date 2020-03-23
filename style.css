@@ -1,4 +1,5 @@
 body {
+    background-image: url('./Penn-Station.jpg');
     background-color: rgb(116, 107, 107);
 }
 .card {
@@ -7,7 +8,7 @@ body {
     font-size: 14px;
 }
 .jumbotron {
-    background: rgb(196, 196, 196);
+    background: rgb(187, 158, 126);
     font-family: 'Times New Roman', Times, serif;
     
 }
