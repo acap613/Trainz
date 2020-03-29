@@ -112,10 +112,19 @@ $(document).ready(function() {
       $("<td>").text(trainDest),
       $("<td>").text(trainFrequency),
       $("<td>").text(nextArrival.format("HH:mm")),
-      $("<td>").text(minutesAway)
+      $("<td>").text(minutesAway),
+     
   );
       $("#full-table").append(newRow);
+      $("<td>").onclick(function(){
+        $(this).closest("<td>").remove();
+      });
 
+  });
+
+  //adding delete button for completion
+  $( "button" ).click(function() {
+    $( "p" ).remove();
   });
 
 });
